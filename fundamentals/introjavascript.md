@@ -6,9 +6,9 @@
 + Not java
 + Officially called “Ecmascript”
 
-+ #####Javascript is used by most web pages (95.1% as of march 2019, source: [W3Techs](https://w3techs.com/technologies/details/cp-javascript/all/all)) to create dynamic websites. 
-+ #####It can create and adjust what you see (HTML) and the styling (css). 
-+ #####Javascript can calculate, manipulate and validate data.
++ ##### Javascript is used by most web pages (95.1% as of march 2019, source: [W3Techs](https://w3techs.com/technologies/details/cp-javascript/all/all)) to create dynamic websites. 
++ ##### It can create and adjust what you see (HTML) and the styling (css). 
++ ##### Javascript can calculate, manipulate and validate data.
 
 
 ### Javascript is everywhere
