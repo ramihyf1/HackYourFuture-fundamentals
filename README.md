@@ -19,7 +19,7 @@
 These books are free and available online:
 
 + [**Eloquent javascript**](https://eloquentjavascript.net)
-+ [**Javascripten lightenment**](http://javascriptenlightenment)
++ [**Javascript enlightenment**](http://javascriptenlightenment)
 + [**Essential JS design patterns**](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 + [**Javascript.info**](http://javascript.info)
 + [**Human javascript**](http://read.humanjavascript.com)
