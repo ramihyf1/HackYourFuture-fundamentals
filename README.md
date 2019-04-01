@@ -15,6 +15,18 @@
 |9.|• [try...catch](fundamentals/try_catch.md)<br>• [async/await](fundamentals/async_await.md)<br>• [Object Oriented Programming and Classes](fundamentals/oop_classes.md)<br>• [The `this` keyword](fundamentals/this.md) |
 
 
+## Javascript books
+These books are free and available online:
+
++ [**Eloquent javascript**](https://eloquentjavascript.net)
++ [**Javascripten lightenment**](http://javascriptenlightenment)
++ [**Essential JS design patterns**](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
++ [**Javascript.info**](http://javascript.info)
++ [**Human javascript**](http://read.humanjavascript.com)
++ [**Speaking JS**](http://speakingjs.com/es5)
++ [**Exploring JS**](http://exploringjs.com/es6/index.html)
++ [**You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS)
+
 *The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)*
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
